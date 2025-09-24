@@ -68,7 +68,7 @@ a {
 .banner {
     /* background-image: url("images/photo-1738005787790-cdd55b3bddec.jpg"); */
     /* Formatted for GitHub gh-pages!: */
-    background-image: url("https://github.com/Marty-McLeod/medium-article-redo/blob/gh-pages/images/photo-1738005787790-cdd55b3bddec.jpg");
+    background-image: url("/gh-pages/images/photo-1738005787790-cdd55b3bddec.jpg");
     object-fit: contain;
     background-repeat: no-repeat;
     padding: 1em;
