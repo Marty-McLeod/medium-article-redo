@@ -66,8 +66,7 @@ a {
 }
 
 .banner {
-    /* background-image: url("/images/photo-1738005787790-cdd55b3bddec.jpg"); */
-    background-image: url("https://images.unsplash.com/photo-1734779205926-e95618979119?q=80&w=1887");
+    background-image: url("/images/photo-1738005787790-cdd55b3bddec.jpg");
     object-fit: contain;
     background-repeat: no-repeat;
     padding: 1em;
